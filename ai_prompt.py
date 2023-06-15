@@ -14,4 +14,4 @@ def input_text_update(textPrompt):
     content = content.split('```')[1]
     return content.split(',')
 
-print(generate_prompt())
+#print(generate_prompt())
